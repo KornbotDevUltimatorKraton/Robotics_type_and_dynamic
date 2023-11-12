@@ -51,6 +51,12 @@
       "type": "Legged",
       "leg_type": "Bipedal",
       "dynamic_control": "Nonlinear Dynamic"
+    },
+    {
+      "name": "Amphibious Robot",
+      "type": "Hybrid",
+      "dynamic_control": "Nonlinear Dynamic"
     }
   ]
 }
+
