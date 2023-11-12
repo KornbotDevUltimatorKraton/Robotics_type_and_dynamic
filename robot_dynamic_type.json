@@ -1,0 +1,56 @@
+{
+  "robots": [
+    {
+      "name": "Industrial Robot",
+      "type": "Manipulator",
+      "dynamic_control": "Nonlinear Dynamic"
+    },
+    {
+      "name": "Service Robot",
+      "type": "Mobile",
+      "dynamic_control": "Linear Dynamic"
+    },
+    {
+      "name": "Medical Robot",
+      "type": "Surgical",
+      "dynamic_control": "Nonlinear Dynamic"
+    },
+    {
+      "name": "Educational Robot",
+      "type": "Humanoid",
+      "dynamic_control": "Linear Dynamic"
+    },
+    {
+      "name": "Space Exploration Robot",
+      "type": "Rover",
+      "dynamic_control": "Nonlinear Dynamic"
+    },
+    {
+      "name": "Wheel Robot",
+      "type": "Mobile",
+      "dynamic_control": "Linear Dynamic"
+    },
+    {
+      "name": "Swimming Robot",
+      "type": "Aquatic",
+      "dynamic_control": "Nonlinear Dynamic"
+    },
+    {
+      "name": "Flying Robot",
+      "type": "Aerial",
+      "dynamic_control": "Nonlinear Dynamic"
+    },
+    {
+      "name": "Quadruped Robot",
+      "type": "Legged",
+      "leg_type": "Quadrupedal",
+      "dynamic_control": "Nonlinear Dynamic"
+    },
+    {
+      "name": "Bipedal Robot",
+      "type": "Legged",
+      "leg_type": "Bipedal",
+      "dynamic_control": "Nonlinear Dynamic"
+    }
+  ]
+}
