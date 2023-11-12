@@ -56,7 +56,13 @@
       "name": "Amphibious Robot",
       "type": "Hybrid",
       "dynamic_control": "Nonlinear Dynamic"
+    },
+    {
+      "name": "Flexible Robot",
+      "type": "Flexible",
+      "dynamic_control": "Nonlinear Dynamic"
     }
   ]
 }
+
 
